@@ -1,0 +1,12 @@
+/Users/Ben/eclipse-workspace/jenkins-test/src/main/java/com/test/jenkins/model/InterfaceName.java
+/Users/Ben/eclipse-workspace/jenkins-test/src/main/java/com/test/jenkins/utils/ConfigFile.java
+/Users/Ben/eclipse-workspace/jenkins-test/src/main/java/com/test/jenkins/model/GetUserListCase.java
+/Users/Ben/eclipse-workspace/jenkins-test/src/main/java/com/test/jenkins/utils/DatabaseUtil.java
+/Users/Ben/eclipse-workspace/jenkins-test/src/main/java/com/test/jenkins/model/LoginCase.java
+/Users/Ben/eclipse-workspace/jenkins-test/src/main/java/com/test/jenkins/model/GetUserInfoCase.java
+/Users/Ben/eclipse-workspace/jenkins-test/src/main/java/com/test/jenkins/model/User.java
+/Users/Ben/eclipse-workspace/jenkins-test/src/main/java/com/test/jenkins/cases/LoginTest.java
+/Users/Ben/eclipse-workspace/jenkins-test/src/main/java/com/test/jenkins/model/UpdateUserInfoCase.java
+/Users/Ben/eclipse-workspace/jenkins-test/src/main/java/com/test/jenkins/config/ExtentTestNGIReporterListener.java
+/Users/Ben/eclipse-workspace/jenkins-test/src/main/java/com/test/jenkins/config/TestConfig.java
+/Users/Ben/eclipse-workspace/jenkins-test/src/main/java/com/test/jenkins/model/AddUserCase.java
