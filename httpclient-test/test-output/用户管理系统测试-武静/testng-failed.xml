@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [用户管理系统测试-武静]">
+  <listeners>
+    <listener class-name="wj.test.httpclient.config.ExtentTestNGIReporterListener"/>
+  </listeners>
+  <test thread-count="5" name="httpclient report(failed)">
+    <classes>
+      <class name="wj.test.httpclient.cases.LoginTest">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="loginFalse"/>
+        </methods>
+      </class> <!-- wj.test.httpclient.cases.LoginTest -->
+    </classes>
+  </test> <!-- httpclient report(failed) -->
+</suite> <!-- Failed suite [用户管理系统测试-武静] -->
